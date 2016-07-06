@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <MyCustomControls/MyCustomControls.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <StepperViewDelegate>
 
 
 @end

@@ -1,0 +1,6 @@
+framework module MyCustomControls {
+  umbrella header "MyCustomControls.h"
+
+  export *
+  module * { export * }
+}
